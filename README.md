@@ -6,8 +6,8 @@ https://npmpackages.vercel.app
 
 | Name                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------- |
-| [Emotion]()                                                                                                                   |
-| [Material UI]()                                                                                                               |
+| [Emotion](https://www.npmjs.com/package/@emotion/react) - [Docs](https://emotion.sh/docs/introduction)                        |
+| [Material UI](https://www.npmjs.com/package/@mui/material) -[Docs](https://mui.com)                                           |
 | [ChartJS](https://www.npmjs.com/package/react-chartjs-2) - [Docs](https://react-chartjs-2.js.org)                             |
 | [Faker Data](https://www.npmjs.com/package/@faker-js/faker)                                                                   |
 | [Sweetalert2](https://www.npmjs.com/package/sweetalert2) - [Docs](https://sweetalert2.github.io)                              |
