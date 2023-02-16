@@ -1,4 +1,4 @@
-import Info from '../data/Info'
+import Info from './Info'
 import Swal from 'sweetalert2'
 
 const Sweetalert2 = () => {

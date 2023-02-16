@@ -6,6 +6,7 @@ const reactPackages = [
   { id: 5, name: 'React Toastify', url: 'react-toastify' },
   { id: 6, name: 'Moment', url: 'moment' },
   { id: 7, name: 'React Datepicker', url: 'react-datepicker' },
+  { id: 8, name: 'Math.JS', url: 'mathjs' },
   // { id: , name: '', url: '' },
 ]
 export default reactPackages

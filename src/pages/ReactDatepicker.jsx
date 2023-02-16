@@ -1,4 +1,4 @@
-import Info from '../data/Info'
+import Info from './Info'
 
 import React, { useState } from 'react'
 import DatePicker from 'react-datepicker'

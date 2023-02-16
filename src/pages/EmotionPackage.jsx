@@ -1,4 +1,4 @@
-import Info from '../data/Info'
+import Info from './Info'
 
 /** @jsxImportSource @emotion/react */
 import { css } from '@emotion/react'

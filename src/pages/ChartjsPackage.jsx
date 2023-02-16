@@ -1,4 +1,4 @@
-import Info from '../data/Info'
+import Info from './Info'
 import { faker } from '@faker-js/faker'
 import {
   Chart as ChartJS,

@@ -7,6 +7,8 @@ import Sweetalert2 from './pages/Sweetalert2'
 import ReactToastify from './pages/ReactToastify'
 import ReactDatepicker from './pages/ReactDatepicker'
 import Moment from './pages/Moment'
+import MathJS from './pages/MathJS'
+
 import NotFound from './pages/NotFound'
 
 function App() {
@@ -21,6 +23,8 @@ function App() {
         <Route path='/react-toastify' element={<ReactToastify />} />
         <Route path='/moment' element={<Moment />} />
         <Route path='/react-datepicker' element={<ReactDatepicker />} />
+        <Route path='/mathjs' element={<MathJS />} />
+
         <Route path='*' element={<NotFound />} />
       </Routes>
     </Router>
@@ -28,10 +32,3 @@ function App() {
 }
 
 export default App
-// import Info from '../components/Info'
-
-// <Info
-// name=''
-// npm=''
-// doce=''
-// />

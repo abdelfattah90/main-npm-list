@@ -1,4 +1,4 @@
-import Info from '../data/Info'
+import Info from './Info'
 
 import { ToastContainer, toast } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'

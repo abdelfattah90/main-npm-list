@@ -1,4 +1,4 @@
-import Info from '../data/Info'
+import Info from './Info'
 import moment from 'moment'
 
 const Moment = () => {
