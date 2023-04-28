@@ -44,6 +44,7 @@ https://react-npm-packages.vercel.app
 | [Yup](https://www.npmjs.com/package/yup)                              | Validation - schema builder                           |
 | [ValidatorExpress](https://www.npmjs.com/package/express-validator)   | Validation - middleware express                       |
 | [AjvJSONschema](https://www.npmjs.com/package/ajv)                    | Validation - JSON schema                              |
+| [Slugify](https://www.npmjs.com/package/slugify)                      | String - Slug separator                               |
 | [FSextra](https://www.npmjs.com/package/fs-extra)                     | File system with native fs module                     |
 | [Progress](https://www.npmjs.com/package/progress)                    | Flexible ascii progress bar                           |
 | [Nanoid](https://www.npmjs.com/package/nanoid)                        | ID generator                                          |
